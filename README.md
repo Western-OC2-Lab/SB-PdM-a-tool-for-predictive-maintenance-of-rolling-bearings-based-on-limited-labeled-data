@@ -24,3 +24,11 @@ For all inquiries or collaboration opportunities please contact: <br>
 Email : saburakh@uwo.ca or Abdallah.Shami@uwo.ca <br>
 Github: [SulAburakhia](https://github.com/SulAburakhia) or [Western OC2 Lab](https://github.com/Western-OC2-Lab) <br>
 Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en); [Sulaiman Aburakhia](https://scholar.google.com/citations?user=8x-pPSYAAAAJ&hl=en)
+
+
+## Citation
+
+If you find this repository useful in your research, please cite as:
+
+S. A. Aburakhia, T. Tayeh, R. Myers and A. Shami, "Similarity-Based Predictive Maintenance Framework for Rotating Machinery", the Fifth International Conference on Communications, Signal Processing, and their Applications (ICCSPA’22), Cairo, Egypt, 27-29 December 2022.
+
